@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+.mypy_cache/
+input/
+
+.thumbs.db
+.DS_Store
+*.pyc
